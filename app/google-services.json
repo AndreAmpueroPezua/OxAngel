@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "212344635172",
+    "project_id": "endless-lamp-259203",
+    "storage_bucket": "endless-lamp-259203.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:212344635172:android:26a149b6ddda622f21bdb1",
+        "android_client_info": {
+          "package_name": "com.tfd.oxangel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "212344635172-n1vs6pv8jpr36kgsrd9m6g10in46de0b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tfd.oxangel",
+            "certificate_hash": "b78164a8b5b6457e282cb3a6c0b8af5ced94d29d"
+          }
+        },
+        {
+          "client_id": "212344635172-ehcr9i7jsdutl322peh4360sf95gje3t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAT8AyO3qtonPib7snqOWfvRIJV-IO8HGo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "212344635172-ehcr9i7jsdutl322peh4360sf95gje3t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
