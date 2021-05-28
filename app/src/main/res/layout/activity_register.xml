@@ -42,6 +42,10 @@
             android:layout_height="wrap_content"
             android:hint="Nombre Completo"
             app:startIconDrawable="@drawable/icon_user"
+            app:boxCornerRadiusBottomEnd="50dp"
+            app:boxCornerRadiusBottomStart="50dp"
+            app:boxCornerRadiusTopEnd="50dp"
+            app:boxCornerRadiusTopStart="50dp"
             app:endIconMode="clear_text">
 
             <com.google.android.material.textfield.TextInputEditText
@@ -58,6 +62,10 @@
             android:layout_height="wrap_content"
             android:layout_marginTop="5dp"
             android:hint="Correo Electronico"
+            app:boxCornerRadiusBottomEnd="50dp"
+            app:boxCornerRadiusBottomStart="50dp"
+            app:boxCornerRadiusTopEnd="50dp"
+            app:boxCornerRadiusTopStart="50dp"
             app:startIconDrawable="@drawable/icon_email"
             app:endIconMode="clear_text">
 
@@ -76,6 +84,10 @@
             android:layout_marginTop="5dp"
             android:hint="Contraseña"
             app:endIconMode="password_toggle"
+            app:boxCornerRadiusBottomEnd="50dp"
+            app:boxCornerRadiusBottomStart="50dp"
+            app:boxCornerRadiusTopEnd="50dp"
+            app:boxCornerRadiusTopStart="50dp"
             app:startIconDrawable="@drawable/icon_lock">
 
             <com.google.android.material.textfield.TextInputEditText
@@ -93,6 +105,10 @@
             android:layout_marginTop="5dp"
             android:hint="Telefono"
             app:startIconDrawable="@drawable/icon_phone"
+            app:boxCornerRadiusBottomEnd="50dp"
+            app:boxCornerRadiusBottomStart="50dp"
+            app:boxCornerRadiusTopEnd="50dp"
+            app:boxCornerRadiusTopStart="50dp"
             app:endIconMode="clear_text">
 
             <com.google.android.material.textfield.TextInputEditText
@@ -119,7 +135,7 @@
                 android:padding="20dp"
                 android:text="Registrar"
                 android:textColor="@color/white"
-                app:cornerRadius="10dp" />
+                app:cornerRadius="50dp" />
 
             <com.google.android.material.button.MaterialButton
                 android:id="@+id/btnRgCancelar"
@@ -131,7 +147,7 @@
                 android:padding="20dp"
                 android:text="Cancelar"
                 android:textColor="@color/dark_gray"
-                app:cornerRadius="10dp" />
+                app:cornerRadius="50dp" />
 
         </LinearLayout>
 
