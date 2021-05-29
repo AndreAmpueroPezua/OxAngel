@@ -23,7 +23,7 @@ import com.tfd.oxangel.R;
 import dmax.dialog.SpotsDialog;
 
 public class LoginActivity extends AppCompatActivity {
-
+/*comentarios de revisión*/
     TextInputEditText mEditLgEmail,mEditLgPassword;
     Button mBtLgSession;
     FirebaseAuth mFbAuth;
